@@ -20,6 +20,9 @@
     width: 100%;
     min-width: 300px
 }
+.fa-1{
+    opacity: .5;
+}
 .wp-block-button__link {
     color: #fff;
     background-color: #32373c;
