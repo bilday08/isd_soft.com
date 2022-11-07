@@ -34,9 +34,3 @@
     font-size: 1.6em;
     display: none;
 }
-.bt_bb_link_text::after{
-    display: none;
-}
-.subToggler{
-    display: none;
-}
