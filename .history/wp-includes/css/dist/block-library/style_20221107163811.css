@@ -6,24 +6,16 @@
     float: left;
 }
 .btMenuHorizontal .menuPort nav {
-    padding-left: 4.1rem;
+    padding-left: 4.5rem;
     margin-top: -5rem;
     font-weight: 300;
     font-size: 0.9rem;
 }
 .fa-2{
     opacity: .5;
-    margin-left: 10rem;
+    margin-left: 2rem;
 }
 .btLogoArea .logo img.btMainLogo {
     height: 90px;
-    margin-top: 10px;
-}
-.fa-3{
-    font-weight: 300;
-    width: 5px;
-    height: auto;
-}
-.btStickyHeaderActive.btMenuHorizontal .mainHeader .btLogoArea .logo img {
-    height: calc(120px*0.6) !important;
+    margin-top: 90px;
 }

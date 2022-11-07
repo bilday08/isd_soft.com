@@ -1,0 +1,12 @@
+.fa-1{
+    opacity: .5;
+    font-size: 1.2em;
+}
+.btMenuHorizontal.btMenuRight .menuPort nav {
+    float: left;
+}
+.btMenuHorizontal .menuPort nav {
+    padding-left: 10px;
+    margin-top: -3rem;
+    font-weight: 500;
+}
