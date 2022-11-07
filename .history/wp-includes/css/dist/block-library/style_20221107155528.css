@@ -6,7 +6,6 @@
     float: left;
 }
 .btMenuHorizontal .menuPort nav {
-    padding-left: 20px;
-    margin-top: -3rem;
-    font-weight: 300;
+    padding-left: 50px;
+    margin-top: -5rem;
 }

@@ -5,8 +5,3 @@
 .btMenuHorizontal.btMenuRight .menuPort nav {
     float: left;
 }
-.btMenuHorizontal .menuPort nav {
-    padding-left: 20px;
-    margin-top: -3rem;
-    font-weight: 300;
-}
