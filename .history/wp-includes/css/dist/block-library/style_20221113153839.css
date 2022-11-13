@@ -5,11 +5,12 @@
 .btMenuHorizontal.btMenuRight .menuPort nav {
     float: left;
 }
-.menuPort nav {
+/* .btMenuHorizontal .menuPort nav {
+    padding-left: 4.1rem;
     margin-top: -5rem;
     font-weight: 500;
     font-size: 0.9rem;
-} 
+} */ 
 .fa-2{
     opacity: .5;
     margin-left: 10rem;
