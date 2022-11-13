@@ -1,0 +1,48 @@
+.fa-1{
+    opacity: .5;
+    font-size: 1.2em;
+}
+.btMenuHorizontal.btMenuRight .menuPort nav {
+    float: left;
+}
+/* .menuPort nav {
+    margin-top: -5rem;
+    font-weight: 500;
+    font-size: 0.9rem;
+}  */
+.fa-2{
+    opacity: .5;
+    margin-left: 10rem;
+}
+.btLogoArea .logo img.btMainLogo {
+    height: 90px;
+    margin-top: 10px;
+}
+.fa-3{
+    font-weight: 300;
+    width: 5px;
+    height: auto;
+}
+.btStickyHeaderActive.btMenuHorizontal .mainHeader .btLogoArea .logo img {
+    height: calc(120px*0.6) !important;
+}
+.bt_bb_style_accent.bt_bb_latest_posts .bt_bb_latest_posts_item .bt_bb_latest_posts_item_content .bt_bb_latest_posts_arrow a span:after {
+    color: white;
+}
+.specialfont.bt_bb_accordion .bt_bb_accordion_item:before {
+    font-size: 1.6em;
+    display: none;
+}
+.bt_bb_link_text::after{
+    display: none;
+}
+.subToggler{
+    display: none;
+}
+.menuPort nav ul {
+    list-style: none;
+    display: block;
+    margin: 0;
+    transition: all 100ms ease 0s;
+    float: left;
+}
